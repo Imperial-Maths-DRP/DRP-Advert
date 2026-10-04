@@ -51,9 +51,9 @@ LOGO_PATH       = "assets/drp_logo.png"
 LEADER_1_PHOTO  = "assets/leader1.jpg"
 LEADER_2_PHOTO  = "assets/leader2.jpg"
 LEADER_3_PHOTO  = "assets/leader3.jpg"
-LEADER_4_PHOTO  = "assets/leader3.jpg"
-LEADER_5_PHOTO  = "assets/leader3.jpg"
-LEADER_6_PHOTO  = "assets/leader3.jpg"
+LEADER_4_PHOTO  = "assets/leader4.jpg"
+LEADER_5_PHOTO  = "assets/leader5.jpg"
+LEADER_6_PHOTO  = "assets/leader6.jpg"
 
 FOUNDERS_PHOTO  = "assets/founders.jpg"
 QR_CODE_PATH    = "assets/qr_code.png"
@@ -101,25 +101,25 @@ PAPER_IMAGES: list = [
 LEADER_1 = {
     "name":  "Afjal",
     "years": "Year 3",
-    "role":  "Events & Outreach",
+    "role":  "Matching & Admin",
     "photo": LEADER_1_PHOTO,
 }
 LEADER_2 = {
     "name":  "Rafael",
-    "years": "Year 2",
-    "role":  "Matching and Admin",
+    "years": "Year 3",
+    "role":  "Events & Outreach",
     "photo": LEADER_2_PHOTO,
 }
 LEADER_3 = {
-    "name":  "Yuhuan",
-    "years": "Year 2",
-    "role":  "Events & Outreach",
+    "name":  "Sasha",
+    "years": "Year 1",
+    "role":  "Webmaster",
     "photo": LEADER_3_PHOTO,
 }
 LEADER_4 = {
     "name":  "Ariff",
     "years": "PhD",
-    "role":  "Matching and Admin",
+    "role":  "Group leader advice",
     "photo": LEADER_4_PHOTO,
 }
 LEADER_5 = {
@@ -131,7 +131,7 @@ LEADER_5 = {
 LEADER_6 = {
     "name":  "Shen",
     "years": "PhD",
-    "role":  "Matching and Admin",
+    "role":  "Media",
     "photo": LEADER_6_PHOTO,
 }
 
